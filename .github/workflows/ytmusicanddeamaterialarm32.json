@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches 4.0.0-dev.8.mpp)",
-  "versionCode": 20260276,
-  "zipUrl": "https://github.com/mandyoquinha-hash/Anddea-Builds/releases/download/20260276/YT_Music_Anddea_Material_arm32.zip",
+  "version": "v8.30.54 (patches 4.0.0-dev.9.mpp)",
+  "versionCode": 20260292,
+  "zipUrl": "https://github.com/mandyoquinha-hash/Anddea-Builds/releases/download/20260292/YT_Music_Material_arm32.zip",
   "changelog": "https://raw.githubusercontent.com/anddea/revanced-patches/refs/heads/main/README.md"
 }

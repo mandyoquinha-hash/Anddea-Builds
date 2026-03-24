@@ -5,7 +5,7 @@ Anddea Builds
 
 Anddea is a variant of the Revanced Extended.
 
-Get the [latest Anddea release](https://github.com/mandyoquinha-hash/YouTube-and-YouTube-Music-Morphe/releases/tag/20260220).
+Get the [latest Anddea release](https://github.com/mandyoquinha-hash/Anddea-Builds/releases/20260292).
 
 ## If you are having trouble with the classic mount method of the modules
 such as,

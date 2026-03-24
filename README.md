@@ -9,6 +9,7 @@ Get the [latest Anddea release](https://github.com/mandyoquinha-hash/Anddea-Buil
 
 ## If you are having trouble with the classic mount method of the modules
 such as,
+
 - **"Reflash needed"** error after reboots
 - **"Suspicious mount detected"**
 - **Using KSU disable "Unmount Modules By default" or grant root permission to YouTube / YouTube Music"**

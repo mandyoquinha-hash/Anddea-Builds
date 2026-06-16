@@ -1,6 +1,6 @@
 {
-  "version": "v20.51.39 (patches 4.1.0-dev.6.mpp)",
-  "versionCode": 20260425,
-  "zipUrl": "https://github.com/mandyoquinha-hash/Anddea-Builds/releases/download/20260425/YouTube_Amoled_arm64.zip",
+  "version": "v20.51.39 (patches 4.1.0.mpp)",
+  "versionCode": 20260447,
+  "zipUrl": "https://github.com/mandyoquinha-hash/Anddea-Builds/releases/download/20260447/YouTube_Amoled_arm64.zip",
   "changelog": "https://raw.githubusercontent.com/mandyoquinha-hash/Anddea-Builds/refs/heads/main/build.md"
 }

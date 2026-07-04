@@ -1,5 +1,5 @@
 YouTube: v20.51.39
-YT Music: v8.30.54
+YT Music: v9.15.51
   
-Patches: MorpheApp/AnddeaPatches-v4.1.0.mpp
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.1.0)
+Patches: MorpheApp/AnddeaPatches-v4.2.0-dev.2.mpp
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.2.0-dev.2)
